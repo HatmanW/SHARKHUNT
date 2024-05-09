@@ -5,4 +5,15 @@ Current functionality:
   Base Django instance
   SQLlite database
   Login functions
-  Admin functions
+  Logout functions
+  Sign up functions
+  
+  django Admin functions
+
+Currently working on: 
+  user profiles
+  Tasks
+  Locations
+  Task completion record (framework, not actual counter, that's the mobile app as per PVV)
+  Hunt
+  
